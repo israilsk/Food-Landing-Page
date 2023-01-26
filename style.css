@@ -23,7 +23,7 @@ body{
     height: 965px;
     left: 51px;
     top: 63px;
-    background-image: url(./bgimg.png);
+    background-image: url(./img/bgimg.png);
     border-radius: 100px;
 
 }
@@ -134,7 +134,7 @@ width: 276.1px;
 height: 192.88px;
 right: 1px;
 top: 229px;
-background: url(./veg.svg);
+background: url(./img/veg.svg);
 transform: rotate(20.29deg);
 }
 
